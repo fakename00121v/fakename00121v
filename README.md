@@ -2,10 +2,9 @@
 
 <p align="center">
   <a href="https://pay.cloudtips.ru/p/4ea26bd3">
-    <img src="https://img.shields.io/badge/Поддержать-CloudTips-blue" alt="Поддержать проект">
-  </a>
-  <a href="https://github.com/fakename00121v/ru-tg-vpn-bots">
-    <img src="https://img.shields.io/badge/Мой-проект-brightgreen" alt="Мой проект">
+    <img src="https://img.shields.io/badge/Поддержать-CloudTips-blue" alt="Поддержать">
+  <a href="https://opensource.org">
+    <img src="https://badges.frapsoft.com/os/v2/open-source.png?v=103" alt="Open Source">
   </a>
 </p>
 
